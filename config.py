@@ -1,1 +1,1 @@
-TOKEN = "ISI_TOKEN_BOT_KAMU_DI_SINI"  # Ganti dengan token dari @BotFather
+TOKEN = "8487458549:AAFD4xmraiWBo7OFtlwx4kdPHPtD9A0g9jE"
